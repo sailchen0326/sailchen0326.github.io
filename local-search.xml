@@ -17,13 +17,21 @@
   
   
   <entry>
-    <title>哈哈哈</title>
+    <title>练习页</title>
     <link href="/2022/11/04/%E5%93%88%E5%93%88%E5%93%88/"/>
     <url>/2022/11/04/%E5%93%88%E5%93%88%E5%93%88/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<p>现在绝大多数自建博客用的图床方案都是 GitHub + jsDelivr + PicGo，包括作者的站点也是一样，优点在于零成本，简单的搭建方式以及不错的访问速度，但随着 jsDelivr 备案被取消，国内访问不再稳定，我开始考虑更好的代替品。</p><p>之前其实也试过 Coding 或 Gitee 作为自建图床，但是体验都不是特别完美，Coding 图床支持的软件太少了，不管是管理还是上传都并不是很方便，而 Gitee 图床超过 1M 就必须登录才能查看，之前试过使用类似于 Sync Repo to Coding 将同步到 Coding，但是效果不太理想。</p>]]></content>
     
     
+    
+    <tags>
+      
+      <tag>Hexo</tag>
+      
+      <tag>Fluid</tag>
+      
+    </tags>
     
   </entry>
   
