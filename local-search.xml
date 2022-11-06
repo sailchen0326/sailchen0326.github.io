@@ -8,7 +8,7 @@
     <link href="/2022/11/06/%E7%BB%83%E4%B9%A0%E6%96%87%E7%AB%A0/"/>
     <url>/2022/11/06/%E7%BB%83%E4%B9%A0%E6%96%87%E7%AB%A0/</url>
     
-    <content type="html"><![CDATA[<p><img src="//img/article/a.jpg"></p><p>此处的文章名字，即是.md文件的文件名，当然也是在网页上URL处显示的链接名。例如，这篇文章假如用了命令hexo new createLayout，那么，你可以看看上面的地址栏，最后显示的就是createLayout.html。这是创建一篇文章最简单的一种方法。</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/img/article/a.jpg" alt="aa"></p><p>此处的文章名字，即是.md文件的文件名，当然也是在网页上URL处显示的链接名。例如，这篇文章假如用了命令hexo new createLayout，那么，你可以看看上面的地址栏，最后显示的就是createLayout.html。这是创建一篇文章最简单的一种方法。</p>]]></content>
     
     
     
